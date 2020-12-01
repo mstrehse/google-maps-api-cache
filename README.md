@@ -40,6 +40,6 @@ You can change the port for the server by changing the port value inside the doc
 
 Please read https://docs.docker.com/compose/ for more informations on this.
 
-## I want to give you money, because you saved me log of money on google api billing!
+## I want to give you money, because you saved me lot of money on google api billing!
 
 Feel free to buy me a coffee or and say something nice at https://www.buymeacoffee.com/maxman, so i can build more helpfull stuff in the future!
