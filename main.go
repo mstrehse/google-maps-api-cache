@@ -103,5 +103,5 @@ func query(w http.ResponseWriter, r *http.Request) {
 	w.Header().Add("expires", resp.Header.Get("expires"))
 	w.Header().Add("alt-svc", resp.Header.Get("alt-svc"))
 
-	fmt.Fprintf(w, string(body))
+	w.Write(body)
 }
